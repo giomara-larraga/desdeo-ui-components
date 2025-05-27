@@ -1,4 +1,4 @@
-import { fontFamily } from "tailwindcss/defaultTheme";
+import { fontFamily } from "tailwindcss";
 import type { Config } from "tailwindcss";
 
 const config: Config = {
